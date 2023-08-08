@@ -1,10 +1,10 @@
 # Neural-Operator
 
-Code
-https://drive.google.com/drive/folders/1MmYAJicdkbXFbFrWUuCU_36miw3smZJj?usp=drive_link
+Physics Informed Neural Operator
+https://drive.google.com/drive/folders/1LR2-v1zKRhayDmVuRto3LB4oDajUAXML?usp=sharing
 
-PI-DeepONet data(Burger.mat)
-https://drive.google.com/file/d/1hziTNkcmYZgxsAAQvbWBKV2m0FNY1rsK/view?usp=drive_link
 
+Physics Informed DeepONet(PIDON)
+https://drive.google.com/drive/folders/1svLQzIL5EC5bxHjc1uIeUpmEB_EO2B3-?usp=sharing
 
 
